@@ -1,0 +1,6 @@
+# Mumbai Weather Intelligence: dependencies
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
